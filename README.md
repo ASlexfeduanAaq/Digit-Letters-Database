@@ -6,11 +6,11 @@ Digit-Letters-Database
 
 ## 数据结构
 
-- `ones.txt`：包含 0-9 的字符表示
-- `tens.txt`：包含 00-99 的字符表示
-- `hundreds.txt`：包含 000-999 的字符表示
-- `thousands.txt`：包含 0000-9999 的字符表示
-- `ten_thousands.txt`：包含 00000-99999 的字符表示
+- `ones.txt`：包含 a-z 的字符表示
+- `tens.txt`：包含 aa-zz 的字符表示
+- `hundreds.txt`：包含 aaa-zzz 的字符表示
+- `thousands.txt`：包含 aaaa-zzzz 的字符表示
+- `ten_thousands.txt`：包含 aaaaa-zzzzz 的字符表示
 
 ## 使用方法
 
